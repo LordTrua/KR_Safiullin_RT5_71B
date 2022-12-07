@@ -1,0 +1,46 @@
+div.squares {
+  background-color: rgb(230, 206, 118);
+  border: 1px solid black;
+  margin: 10px;
+}
+
+div.Rcontainers {
+  background-color: rgb(174, 5, 56);
+}
+div.serverContainer {
+  background-color: rgb(13, 39, 243);
+}
+div.container {
+  border: 1px solid black;
+  width: 250px;
+  height: 400px;
+  text-align: center;
+  margin: 10px;
+  display: inline-table;
+}
+div.container p {
+  border: 2px solid black;
+  margin-bottom: 5px;
+  background-color: wheat;
+  font-style: italic;
+  width: 95%;
+  text-align: center;
+  margin-left: 5px;
+}
+div.dbcontainer {
+  background-color: rgb(160, 171, 115);
+}
+
+div.ContainerSigments {
+  background-color: rgb(160, 171, 115);
+  border: 1px solid black;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+}
+
+button.BIG_RED_BUTTON {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
